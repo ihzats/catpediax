@@ -6,7 +6,7 @@ export default function Catpage() {
     <main>
       <Navbar />
       <Card/>
-      <Footer />
+      {/* <Footer /> */}
     </main>
   )
 }
