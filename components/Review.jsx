@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Review() {
     return (
-        <div className="min-h-screen bg-gray-100 py-8 sm:py-12 px-4 sm:px-6 lg:px-8">
+        <div className=" bg-gray-100 py-8 sm:py-12 px-4 sm:px-6 lg:px-8">
             <div className="max-w-7xl mx-auto sm:px-6 lg:px-8">
                 <div className="bg-white shadow-md sm:rounded-lg">
                     <div className="p-6">
